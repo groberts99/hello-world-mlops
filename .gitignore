@@ -1,1 +1,3 @@
 .venv
+.python-version
+artifacts/model.pkl
