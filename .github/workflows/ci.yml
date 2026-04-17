@@ -1,4 +1,5 @@
 name: CI - Train and Save the model
+# initial ci pipeline
 
 on:
   push:
